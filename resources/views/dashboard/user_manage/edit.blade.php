@@ -9,9 +9,6 @@
 
              <div class="alert alert-primary fade show" role="alert">{{ session('name_update')}} !</div>
 
-
-
-
         @endif
 
         <div class="main-card mb-3 mt-4 card bg-transparent ">

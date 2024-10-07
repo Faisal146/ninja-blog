@@ -94,7 +94,6 @@ class UserController extends Controller
     } else {
              User::where('id' , $id)->update([
         'block' => true,
-
         'updated_at' => now(),
     ]);
         }

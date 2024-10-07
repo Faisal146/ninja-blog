@@ -477,10 +477,16 @@
                                     </i>User Management
                                 </a>
                             </li>
-                            <li class="{{($link == 'categorys') ? 'mm-active':''}}">
-                                <a href="{{ route('category') }}" class="{{($link == 'categorys') ? 'mm-active':''}}">
+                            <li class="{{($link == 'category') ? 'mm-active':''}}">
+                                <a href="{{ route('category.index') }}" class="{{($link == 'category') ? 'mm-active':''}}">
                                     <i class="metismenu-icon pe-7s-graph">
                                     </i>Category
+                                </a>
+                            </li>
+                            <li class="{{($link == 'blog') ? 'mm-active':''}}">
+                                <a href="{{ route('blog.index') }}" class="{{($link == 'blog') ? 'mm-active':''}}">
+                                    <i class="metismenu-icon pe-7s-graph">
+                                    </i>Blogs
                                 </a>
                             </li>
 
@@ -687,6 +693,8 @@
 
     <!--Tables Init-->
     <script src="{{ asset('dashboard') }}/assets/js/scripts-init/tables.js"></script>
+
+    @yield('script')
 
 </body>
 
