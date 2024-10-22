@@ -50,6 +50,9 @@
 
     <link rel="stylesheet" href="{{ asset('dashboard') }}/assets/css/base.min.css">
 
+    <script src="https://cdn.tiny.cloud/1/egjxomn6m2xfhhd05yp23peyjb0dbayxioen2ahaqvdirms4/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
+
+
 </head>
 
 <body>
