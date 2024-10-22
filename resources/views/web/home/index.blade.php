@@ -11,7 +11,7 @@
                         <a href="category.html" class="category-badge lg">Lifestyle</a>
                         <h4 class="post-title"><a href="blog-single.html">9 Most Awesome Blue Lake With Snow Mountain</a></h4>
                         <ul class="meta list-inline mb-0">
-                            <li class="list-inline-item"><a href="#">Siam Hossain</a></li>
+                            <li class="list-inline-item"><a href="#">faisal islam</a></li>
                             <li class="list-inline-item">29 March 2021</li>
                         </ul>
                     </div>
@@ -27,7 +27,7 @@
                         <a href="category.html" class="category-badge lg">Culture</a>
                         <h4 class="post-title"><a href="blog-single.html">Important Thing You Need To Know About Swim</a></h4>
                         <ul class="meta list-inline mb-0">
-                            <li class="list-inline-item"><a href="#">Siam Hossain</a></li>
+                            <li class="list-inline-item"><a href="#">faisal islam</a></li>
                             <li class="list-inline-item">29 March 2021</li>
                         </ul>
                     </div>
@@ -83,7 +83,7 @@
 						</div>
 						<div class="details">
 							<ul class="meta list-inline mb-0">
-								<li class="list-inline-item"><a href="#"><img src="{{ asset('frontend') }}/images/other/author-sm.png" class="author" alt="author"/>Siam Hossain</a></li>
+								<li class="list-inline-item"><a href="#"><img src="{{ asset('frontend') }}/images/other/author-sm.png" class="author" alt="author"/>faisal islam</a></li>
 								<li class="list-inline-item">29 March 2021</li>
 								<li class="list-inline-item"><i class="icon-bubble"></i> (0)</li>
 							</ul>
@@ -123,7 +123,7 @@
 						</div>
 						<div class="details">
 							<ul class="meta list-inline mb-0">
-								<li class="list-inline-item"><a href="#"><img src="{{ asset('frontend') }}/images/other/author-sm.png" class="author" alt="author"/>Siam Hossain</a></li>
+								<li class="list-inline-item"><a href="#"><img src="{{ asset('frontend') }}/images/other/author-sm.png" class="author" alt="author"/>faisal islam</a></li>
 								<li class="list-inline-item">29 March 2021</li>
 								<li class="list-inline-item"><i class="icon-bubble"></i> (0)</li>
 							</ul>
@@ -166,7 +166,7 @@
 						</div>
 						<div class="details">
 							<ul class="meta list-inline mb-0">
-								<li class="list-inline-item"><a href="#"><img src="{{ asset('frontend') }}/images/other/author-sm.png" class="author" alt="author"/>Siam Hossain</a></li>
+								<li class="list-inline-item"><a href="#"><img src="{{ asset('frontend') }}/images/other/author-sm.png" class="author" alt="author"/>faisal islam</a></li>
 								<li class="list-inline-item">29 March 2021</li>
 								<li class="list-inline-item"><i class="icon-bubble"></i> (0)</li>
 							</ul>
@@ -206,7 +206,7 @@
 						</div>
 						<div class="details">
 							<ul class="meta list-inline mb-0">
-								<li class="list-inline-item"><a href="#"><img src="{{ asset('frontend') }}/images/other/author-sm.png" class="author" alt="author"/>Siam Hossain</a></li>
+								<li class="list-inline-item"><a href="#"><img src="{{ asset('frontend') }}/images/other/author-sm.png" class="author" alt="author"/>faisal islam</a></li>
 								<li class="list-inline-item">29 March 2021</li>
 								<li class="list-inline-item"><i class="icon-bubble"></i> (0)</li>
 							</ul>
@@ -272,7 +272,7 @@
 						<div class="widget rounded">
 							<div class="widget-about data-bg-image text-center" data-bg-image="{{ asset('frontend') }}/images/map-bg.png">
 								{{-- <img src="{{ asset('frontend') }}/images/logo.svg" alt="logo" class="mb-4" /> --}}
-                                <h1>Retro Blog</h1>
+                                <h1>ninga Blog</h1>
 								<p class="mb-4">Hello, We’re content writer who is fascinated by content fashion, celebrity and lifestyle. We helps clients bring the right content to the right people.</p>
 								<ul class="social-icons list-unstyled list-inline mb-0">
 									<li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -387,7 +387,7 @@
 										</div>
 										<h5 class="post-title mb-0 mt-4"><a href="blog-single.html">5 Easy Ways You Can Turn Future Into Success</a></h5>
 										<ul class="meta list-inline mt-2 mb-0">
-											<li class="list-inline-item"><a href="#">Siam Hossain</a></li>
+											<li class="list-inline-item"><a href="#">faisal islam</a></li>
 											<li class="list-inline-item">29 March 2021</li>
 										</ul>
 									</div>
@@ -403,7 +403,7 @@
 										</div>
 										<h5 class="post-title mb-0 mt-4"><a href="blog-single.html">Master The Art Of Nature With These 7 Tips</a></h5>
 										<ul class="meta list-inline mt-2 mb-0">
-											<li class="list-inline-item"><a href="#">Siam Hossain</a></li>
+											<li class="list-inline-item"><a href="#">faisal islam</a></li>
 											<li class="list-inline-item">29 March 2021</li>
 										</ul>
 									</div>
@@ -419,7 +419,7 @@
 										</div>
 										<h5 class="post-title mb-0 mt-4"><a href="blog-single.html">5 Easy Ways You Can Turn Future Into Success</a></h5>
 										<ul class="meta list-inline mt-2 mb-0">
-											<li class="list-inline-item"><a href="#">Siam Hossain</a></li>
+											<li class="list-inline-item"><a href="#">faisal islam</a></li>
 											<li class="list-inline-item">29 March 2021</li>
 										</ul>
 									</div>

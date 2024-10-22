@@ -4,7 +4,7 @@
 <!-- Mirrored from themeger.shop/html/katen/html/classic.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 13 Nov 2023 05:32:49 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Retro Blog</title>
+	<title>ninga Blog</title>
 	<meta name="description" content="Katen - Minimal Blog & Magazine HTML Theme">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" type="image/x-icon" href="{{ asset('frontend') }}/images/favicon.png">
@@ -68,7 +68,7 @@
 				<!-- site logo -->
 				<a class="navbar-brand" href="index.html">
                     {{-- <img src="{{ asset('frontend') }}/images/logo.svg" alt="logo" /> --}}
-                    <h2>Retro Blog.</h2>
+                    <h2>ninga Blog.</h2>
                 </a>
 
 				<div class="collapse navbar-collapse">
@@ -139,7 +139,7 @@
 	<div class="instagram">
 		<div class="container-xl">
 			<!-- button -->
-			<a href="#" class="btn btn-default btn-instagram">@Siam_Hossain on Instagram</a>
+			<a href="#" class="btn btn-default btn-instagram">@faisal_Hossain on Instagram</a>
 			<!-- images -->
 			<div class="instagram-feed d-flex flex-wrap">
 				<div class="insta-item col-sm-2 col-6 col-md-2">
@@ -234,7 +234,7 @@
 	<!-- logo -->
 	<div class="logo">
 		{{-- <img src="{{ asset('frontend') }}/images/logo.svg" alt="Katen" /> --}}
-        <h1>Retro Blog.</h1>
+        <h1>ninga Blog.</h1>
 	</div>
 
 	<!-- menu -->
